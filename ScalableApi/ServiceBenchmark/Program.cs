@@ -3,4 +3,4 @@
 using BenchmarkDotNet.Running;
 using ServiceBenchmark;
 
-BenchmarkRunner.Run<Benchmarks>();
+BenchmarkRunner.Run<ListBenchmarks>();

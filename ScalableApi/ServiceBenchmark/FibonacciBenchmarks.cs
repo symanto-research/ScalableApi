@@ -4,7 +4,7 @@ using Services;
 namespace ServiceBenchmark;
 
 [MemoryDiagnoser]
-public class Benchmarks
+public class FibonacciBenchmarks
 {
     private readonly LinearFibonacciService _linear = new();
     private readonly RecursiveFibonacciService _recursive = new();
