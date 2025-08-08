@@ -1,5 +1,6 @@
 using BenchmarkDotNet.Attributes;
 using Services;
+using Services.Implementations;
 
 namespace ServiceBenchmark;
 
