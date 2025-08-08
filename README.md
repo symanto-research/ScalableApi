@@ -1,3 +1,4 @@
+[![CodeQL](https://github.com/symanto-research/ScalableApi/actions/workflows/github-code-scanning/codeql/badge.svg?branch=main)](https://github.com/symanto-research/ScalableApi/actions/workflows/github-code-scanning/codeql)
 # Testing for Scalability and Reliability in API Systems
 
 ## Overview
